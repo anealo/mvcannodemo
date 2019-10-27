@@ -29,3 +29,22 @@ build/
 
 ### VS Code ###
 .vscode/
+
+.buildpath
+.project
+.settings/
+META-INF/
+.externalToolBuilders/
+.prefs
+.metadata
+.MF
+.component
+.jsdtscope
+.container
+.name
+.launch
+.gitignore
+
+.checkstyle
+
+.externalToolBuilders/

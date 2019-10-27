@@ -30,7 +30,7 @@ import com.obrain.annotation.MyRequestMapping;
 import com.obrain.annotation.MyService;
 
 /**
- * Servlet implementation class MyDispatcherServlet
+ * 另外：可参考https://blog.csdn.net/huangshulang1234/article/details/79395886
  */
 public class MyDispatcherServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
